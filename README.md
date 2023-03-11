@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A motvated and passionate student pursuing a certficaton in Software Engineering at the <br>Alx_afrca Eager to work as a professional Software <br>Engineer to gain professional experience, contribute to the technoogy of my community <br>and the world at large as well as assisting in making researches and development of software product that solves problems of various categories and make <br>live easier for peope. <br>Studying Agriculture and Bioresources Engineering at Federal University of Technology Minna, Nigeria.
+A motvated and passionate student pursuing a certficaton in Software Engineering at the Alx_afrca (Holberton_school curriculum)<br>Eager to work as a professional Software Engineer to gain professional experience, contribute to the technology of my community and the world at large as well as assisting in making researches and development of software product that solves problems of various categories and make live easier for people. <br>Studying Agriculture and Bioresources Engineering at Federal University of Technology Minna, Nigeria.
 
 
 ## 🌐 Socials:
