@@ -37,7 +37,7 @@ A motvated and passionate student pursuing a certficaton in Software Engineering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://images.app.goo.gl/ME3JZstT1nQ8MuuV7" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mubarak1A&icon=2&color=2)](https://visitcount.itsvg.in)
