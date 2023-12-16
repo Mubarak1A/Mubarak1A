@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A motivated and passionate student pursuing a certficaton in Software Engineering at the <b>Alx_africa</b> { ALI (Africa Leadership International) sub-division } : { Holberton_school Curriculum }.
+A motivated and certified Software Engineer. 
+Graduate of Software engineering with specialization in backend development from the <b>Alx_africa</b> { ALI (Africa Leadership International) sub-division } : { Holberton_school Curriculum }.
 <br>Eager to work as a professional Software Engineer to gain professional experience, contribute to the technology of my community and the world at large as well as assisting in making researches and development of software product that solves problems of various categories and make live easier for people. <br>Studying Agriculture and Bioresources Engineering at Federal University of Technology Minna, Nigeria.
 
 
