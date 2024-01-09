@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Experienced and Certified Software Engineer specializing in Backend Development, equipped with a degree from Alx_africa (Holberton School Curriculum).<br>Seeking opportunities as a Professional Software Engineer to leverage my skills and contribute to innovative technologies addressing challenges in my community, Africa, and globally. <br>Also interested in assisting in making researches and development of software product that solves problems of various categories and make live easier for people.
+Experienced and Certified Software Engineer specialized in Backend Development, equipped with a degree from Alx_africa (Holberton School Curriculum).<br>Seeking opportunities as a Professional Software Engineer to leverage my skills and contribute to innovative technologies addressing challenges in my community, Africa, and globally. <br>Also interested in assisting in making researches and development of software product that solves problems of various categories and make live easier for people.
 
 
 ## 🌐 Socials:
