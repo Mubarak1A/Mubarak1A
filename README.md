@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi 👋 I'm Mubarak Adesina.
 
-# 💫 About Me:
-Experienced and Certified Software Engineer specialized in Backend Development, equipped with a degree from Alx_africa (Holberton School Curriculum).<br>Seeking opportunities as a Professional Software Engineer to leverage my skills and contribute to innovative technologies addressing challenges in my community, Africa, and globally. <br>Also interested in assisting in making researches and development of software product that solves problems of various categories and make live easier for people.
+💫  Experienced and Certified Full-Stack Software Engineer.<br />
+👑  Specialized in Backend Development.<br />
+🌟  Equipped with a software development skills from Alx_africa.<br />
+
+✨ Seeking opportunities as a Professional Software Engineer to leverage my skills and contribute to innovative technologies addressing challenges in my community, Africa, and globally.
+
+🏝️ Interested in making researches and development of software product that solves problems of various categories and make live easier for human races.
+
+🌍  I'm based in Nigeria.<br />
+✉️  You can contact me at adesinamubarak123@gmail.com.<br />
+🧠  I'm comfortable working with C programing language, Python, JavaScript, Node.js, express.js, React, MongoDB, Mysql, HTML, CSS, Bash, Linux.<br />
+🤝  I'm open to collaborating on projects that proffer solutions to the world.<br />
 
 
 ## 🌐 Socials:
