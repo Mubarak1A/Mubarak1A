@@ -2,7 +2,7 @@
 
 💫  Experienced and Certified Full-Stack Software Engineer.<br />
 👑  Specialized in Backend Development.<br />
-🌟  Equipped with a software development skills from Alx_africa.<br />
+🌟  Equipped with software development skills from Alx_africa.<br />
 
 ✨ Seeking opportunities as a Professional Software Engineer to leverage my skills and contribute to innovative technologies addressing challenges in my community, Africa, and globally.
 
