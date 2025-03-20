@@ -11,7 +11,7 @@
 🌍  I'm based in Nigeria.<br />
 ✉️  Contact me at adesinamubarak123@gmail.com.<br />
 🧠  I'm comfortable working with C programing language, Python, JavaScript, Node.js, express.js, React, MongoDB, Mysql, HTML, CSS, Bash, Linux.<br />
-🤝  I'm open to collaborating on projects that proffer solutions to the world.<br />
+🤝  I'm open to collaborate on projects that proffer solutions to the world.<br />
 
 
 ## 🌐 Socials:
